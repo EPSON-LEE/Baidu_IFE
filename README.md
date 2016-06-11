@@ -1,13 +1,16 @@
 ## 第一阶段任务一共有 12 个题目 ##
 
-成果与总结请进入上方文件夹查看  [在线预览](http://htmlpreview.github.com/?https://github.com/EPSON-LEE/Baidu_IFE/blob/master/Sesson1/Task1/index.html)
+成果与总结请进入上方文件夹查看 
+任务一：面向零基础的HTML代码编写   [在线预览](http://htmlpreview.github.com/?https://github.com/EPSON-LEE/Baidu_IFE/blob/master/Sesson1/Task1/index.html)
 
-任务一：面向零基础的HTML代码编写  [在线预览](http://htmlpreview.github.com/?https://github.com/EPSON-LEE/Baidu_IFE/blob/master/Sesson1/Task2/index.html) 
 
 任务二：基于任务1的HTML代码，实现简单的CSS代码编写
 
 任务三：HTML、CSS布局入门，三栏式布局的实践
-
+[在线预览（两侧float中间自适应）](http://htmlpreview.github.com/?https://github.com/EPSON-LEE/Baidu_IFE/blob/master/Sesson1/Task3/index.html) 
+[在线预览（margin负值）](http://htmlpreview.github.com/?https://github.com/EPSON-LEE/Baidu_IFE/blob/master/Sesson1/Task3/index3.html) 
+任务四：HTML、CSS布局深入，定位和居中问题的实践
+[在线预览（Position）](http://htmlpreview.github.com/?https://github.com/EPSON-LEE/Baidu_IFE/blob/master/Sesson1/Task3/index2.html) 
 任务四：HTML、CSS布局深入，定位和居中问题的实践
 
 任务五：基于任务1的HTML代码，实现一个稍微复杂的CSS代码编写
