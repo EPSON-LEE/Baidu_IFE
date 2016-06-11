@@ -98,9 +98,7 @@ body{
 }
 
 .box4 table{
-
     border-color: gray;
-    border-spacing: 2px;
     border-collapse: collapse;
     width:100%;
 }
