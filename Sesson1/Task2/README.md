@@ -17,20 +17,23 @@ CSS属性是有继承性的，而百分比都又是相对的，那么height：10
 4. table 标签里面直接可以写样式
 5. ``border-collapse: separate border-collapse: collapse``  将两条边框变为 border-collapse 属性设置表格的边框是否被合并为一个单一的边框，还是象在标准的 HTML 中那样分开显示。
 6. ``border-spacing:2px``
-display:table
 
-```
-<aside></aside>
 
+7. 逻辑分区 ```<aside></aside>```
+8. select用法
+``<select>
+    <option>上海</option>
+    <option>北京</option>
+</select>
+``
 <select>
     <option>上海</option>
     <option>北京</option>
 </select>
-```
 
-border-radius
-inline-block
+9. border-radius 
+10. ``display:inline-block`` 内部block外部inline
  
- 在新的标签页打开href的方法是target="_blank"
+11.  在新的标签页打开href的方法是target="_blank"
  
- name id value的区别.
+ 12. name id value的区别.
