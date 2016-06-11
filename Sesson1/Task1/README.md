@@ -1,3 +1,4 @@
+[在线预览](http://htmlpreview.github.com/?https://github.com/EPSON-LEE/Baidu_IFE/blob/master/Sesson1/Task1/index.html)
 ## 任务目的
 
 了解HTML的定义、概念、发展简史
@@ -47,4 +48,3 @@
  
  在新的标签页打开href的方法是target="_blank"
  
- name id value的区别.
