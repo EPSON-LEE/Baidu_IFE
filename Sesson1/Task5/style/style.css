@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #dedede;
+    font-family: 'Microsoft YaHei';
+    font-weight: 400;
+}
+
+.topic2{
+    color: #808080;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.info{
+    color: #808080;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+.banner{
+    width: 100%;
+    background-color: black;
+    height: 60px;
+}
+
+.banner .logo{
+    display: inline-block;
+}
+.banner .logo img{
+    height: 60px;
+    margin-left: 20px;
+}
+
+.banner .nav_list{
+    float: right;
+    margin-right: -300px;
+}
+
+
+.banner .nav_list li{
+    float: left;
+    list-style: none;
+    color: white;
+    width: 60px;
+    line-height: 62px;
+    text-align: center;
+    margin-right: 10px;
+
+}
+
+.banner .nav_list li a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    display: block;
+}
+
+.banner ul li a:hover{
+    border-bottom: 1px solid red;
+    background: #474747;
+    border-radius: 3px;
+}
+.box1,.box2,.box3,.box4,.box5,.box6{
+    padding: 30px;
+    background-color: white;
+    margin: 30px;
+    box-shadow: 1px 1px 2px 1px #848484;
+    font-weight:500;
+    margin-right: 400px;
+}
+
+
+.box3 div{
+    border:1px solid;
+    width:150px;
+    padding: 10px;
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+
+.box3  img{
+    width:150px;
+    height: 100px;
+}
+
+.box3 .box4 p{
+    display: inline-block;
+    width: 140px;
+    text-align: center;
+}
+
+.box4 table{
+    border-color: gray;
+    border-collapse: collapse;
+    width:100%;
+}
+
+.box4 table th{
+    color: white;
+    background-color: black;
+}
+
+.box4 table tr td{
+    border: 1px solid #ccc;
+}
+.buttonTable{
+    background-color: #ccc;
+}
+
+.box5 h4{
+    height:40px;
+    border-left: 3px solid #ccc;
+    padding-left: 10px;
+    line-height: 40px;
+}
+.box5 h4{
+    height:40px;
+    border-left: 3px solid #ccc;
+    padding-left: 10px;
+    line-height: 40px;
+}
+
+.box div{
+    font-size: 14px;
+    margin: 15px 0;
+}
+
+.box5 .tips{
+    float: left;
+    text-align: right;
+    width: 35%;
+    padding-right: 15px;
+}
+
+
+
+.box5 form div{
+    margin: 15px 0;
+    font-size: 14px;
+}
+
+.box5 p{
+    color: #aaa;
+    font-size: 12px;
+    margin-left: 35%;
+    padding-left: 15px;
+}
+
+.box5 textarea{
+    width: 30%;
+    height: 100px;
+}
+
+.box5 .submitButton{
+    width:100%;
+    height: 50px;
+    margin-top: 30px;
+    color: white;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    border:none;
+    font-size: large;
+    font-weight: bold;
+}
+
+.box5 .submitButton:hover{
+    background: #0063dc;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 14px;
+}
+
+
+.box5{
+    float: right;
+    margin-top: 90px;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 300px;
+}
