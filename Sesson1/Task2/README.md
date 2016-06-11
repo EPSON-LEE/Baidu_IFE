@@ -34,4 +34,6 @@ CSS属性是有继承性的，而百分比都又是相对的，那么height：10
 9. border-radius 
 10. ``display:inline-block`` 内部block外部inline
  
-11. 在新的标签页打开href的方法是target="_blank"
+11.  在新的标签页打开href的方法是target="_blank"
+ 
+ 12. name id value的区别.
